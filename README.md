@@ -7,3 +7,6 @@
 <a href="https://github.com/AndreasBrostrom/SpySystemRevised/issues"><img src="https://img.shields.io/github/issues-raw/AndreasBrostrom/SpySystemRevised.svg?style=for-the-badge&label=Issues" alt="SpySystemRevised Issues"></a>
 
 This mod revises the spy system and make it more hands off and some what more bearable. The main feature is the removal for operation agent requirement and instead adds a cost of civilian factories to all operations.
+
+The idea with this mod is to make the spy system some what more fun by removing the hazel with shipping agents around while still keep the operational system intact.
+I wanted each operation to cost political power but it was not possible in a simple way so instead i added a factory cost for each operation.
