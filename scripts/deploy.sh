@@ -2,7 +2,7 @@
 set -e
 
 VERSION=$*
-PROJECT_NAME="SpySystemReviced" 
+PROJECT_NAME="SpySystemRevised" 
 PROJECT_NAME_SPACED="Spy System Reviced" 
 PROJECT_FILES=("common" "events" "gfx" "interface" "localisation" "descriptor.mod" "LICENSE" "README.md", "thumbnail.png")
 

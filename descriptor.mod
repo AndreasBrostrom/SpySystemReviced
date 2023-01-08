@@ -7,4 +7,4 @@ tags={
 }
 dependencies={}
 
-path="mod/SpySystemReviced"
+path="mod/SpySystemRevised"
